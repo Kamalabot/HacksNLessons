@@ -18,3 +18,5 @@ Following or the list of questions that I have answered over the course of years
 11. [I have existing work that is really different from programming but I want to gain experience in Python programming. What is the best way to gain expertise in Python?](/q_11.html)
 12. [I'm looking for a programming buddy to learn and collaborate with daily. Is anyone interested?](/q_12.html)
 13. [I have existing work that is really different from programming but I want to gain experience in Python programming. What is the best way to gain expertise in Python?](/q_13.html)
+14. [I have learned Python in school well according to its syllabus. How much more do I need to learn for advanced Python?](/q_14.html)
+15. [I am 35 years old with 12 years of sales & marketing experience in a manufacturing firm. Is there a possibility I can move into the data science field? If yes, how can I start?](/q_15.html)
