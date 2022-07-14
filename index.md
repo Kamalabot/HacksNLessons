@@ -1,4 +1,6 @@
 # HacksNLessons
+Programming is for everyone. Computers and the power of processors are like a Race Car, or Rocket Ship or an Aeroplane. We all want to fly and ride. What if, we can make our work finish faster, add new hobbies to our life, find new opportunities? Programming makes it possible. You are seeing one such hobby of mine... Join in
+
 Repo consists of very interesting and useful answers that the quora community upvoted the most. The ideas shared in these answers are invaluable, so keeping it here for future.
 
 Following or the list of questions that I have answered over the course of years, through my trials and successes. Let the fruits be enjoyed by one and all.
