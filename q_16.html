@@ -1,0 +1,29 @@
+<h1>Websites are deployed on Heroku from Github, not the other way.</h1> 
+Read on.
+<p>
+Github can host static pages that is taken from any repo’s root directory. Only static page means, Git doesn't have a server backend, it only provides a hard disk space. There is no processor, or operating system on which you can run services.
+
+While Heroku is cloud based Platform as a Service. In layman terms, Heroku is bunch of Linux servers running on virtual machines called containers. Heroku will provide a Linux machine, from which your website will be served. The source files for your site will come directly from Git Repo.
+</p>
+
+<a href="wisdomcrunch.herokuapp.com/faq">wisdomcrunch webpage</a>
+<p>Above is the site I have hosted using Heroku and Git Repo. The website is built using the Node and Express library, and Mongo db backend. Javascript is the programming language.</p>
+
+<p>Once you have the correct website source files with data and code, it is a simple process. You need to create the following.</p>
+<p>
+Procfile: (Only P has to be capital) File that is specific to Heroku, which tells what kind of application, which kind of server is going to be run and which file will be the entry point. This file needs to contain the port number on which the server will be listening. (An important point).
+In the Procfile you will type this “web : node index.js “ . The meaning of the words are shown below.
+</p>
+<p>
+web : node index.js ==> (web) process (node) server (index.js) file
+</p>
+<p>
+Dependency file: Any website will depend on multiple libraries, and backend resources like databases. These dependencies are included in one file. It is called requirements.txt in python or package.json in node.js environment
+.gitignore: This file tells which kind of files the git has to ignore while enumerating for commit or staging. (A primer on Git would greatly ease your Heroku Journey)
+Once the above is done, then you can go to Heroku Dashboard and start the server. The heroku linux os will install node environment, the dependent packages and then get the server to listen on the configured port. Your website is ready and serving….
+</p>
+<p>
+These are just the steps. When you try executing them, many hurdles will arise. Only way to cross the hurdles is to understand the technologies in detail before implementing. There are huge number of books and resources available in the internet. The site that I have shared above also talks about these resources.
+
+Have a great time building and sharing your content and knowledge. I learnt web development for that purpose only. The above website is the outcome.
+</p>
