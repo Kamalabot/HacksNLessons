@@ -17,3 +17,4 @@ Following or the list of questions that I have answered over the course of years
 10. [How smart does one need to be to be a programmer?](/q_10.html)
 11. [I have existing work that is really different from programming but I want to gain experience in Python programming. What is the best way to gain expertise in Python?](/q_11.html)
 12. [I'm looking for a programming buddy to learn and collaborate with daily. Is anyone interested?](/q_12.html)
+13. [I have existing work that is really different from programming but I want to gain experience in Python programming. What is the best way to gain expertise in Python?](/q_13.html)
