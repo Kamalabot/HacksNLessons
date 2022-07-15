@@ -22,3 +22,6 @@ Following or the list of questions that I have answered over the course of years
 15. [I am 35 years old with 12 years of sales & marketing experience in a manufacturing firm. Is there a possibility I can move into the data science field? If yes, how can I start?](/q_15.html)
 16. [How do you deploy a Node.js application from Heroku to GitHub?](/q_16.html)
 17. [Why is learning coding not a cup of tea for everyone?](/q_17.html)
+18. [Is PyScript faster than JavaScript?](/q_18.html)
+19. [Which language should Hacking Enthusiast continue to learn & strengthen, C++ or Python?](/q_19.html)
+20. [I'm looking for a programming buddy to learn and collaborate with daily. Is anyone interested?](/q_20.html)
