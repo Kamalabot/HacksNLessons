@@ -31,7 +31,6 @@ tr.head th {
   border-right: 1px solid #749abe;
   border-top: 1px solid #90b4d6;
   text-align: center;
-  text-shadow: -1px -1px 1px #666666;
   letter-spacing: 0.15em;}
 td {
   text-shadow: 1px 1px 1px #ffffff;}
@@ -65,7 +64,6 @@ h1, h2, h3, a {
 h1 {
   font-family: Georgia, Times, serif;
   font-size: 250%;
-  text-shadow: 2px 2px 3px #666666;
   padding-bottom: 10px;}
 h3 {
   font-family: "Gill Sans", Arial, sans-serif;
